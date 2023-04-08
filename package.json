@@ -1,7 +1,7 @@
 {
-  "name": "tsed-meeting",
+  "name": "Hello type world !",
   "version": "1.0.0",
-  "description": "Types and Programming Languages",
+  "description": "on lambda-cube and Curry-Howard correspondence",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
@@ -9,8 +9,11 @@
     "build": "slidev build",
     "export": "slidev export"
   },
-  "author": "",
+  "author": "Noriaki Watanabe",
   "license": "ISC",
   "dependencies": {
+    "@slidev/cli": "^0.34.3",
+    "@slidev/theme-default": "^0.21.2",
+    "@slidev/theme-seriph": "^0.21.2"
   }
 }
