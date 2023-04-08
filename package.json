@@ -1,0 +1,16 @@
+{
+  "name": "tsed-meeting",
+  "version": "1.0.0",
+  "description": "Types and Programming Languages",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "slidev --open -p 3031",
+    "build": "slidev build",
+    "export": "slidev export"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+  }
+}
